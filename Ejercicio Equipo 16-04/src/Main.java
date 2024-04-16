@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
 
 
-        //Crear objetos
+        //Crear objetos 
         List<Jugador> listaJugadores = new ArrayList<>();
         listaJugadores.add(new Jugador("Lamine Yamal", "Delantero", 27));
         listaJugadores.add(new Jugador("Ter Stegen", "Arquero", 1));
